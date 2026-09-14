@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#tcGrad)" />
+  
+  <!-- Teacher Conference Graphic -->
+  <g transform="translate(300, 160)">
+    <!-- Meeting Table -->
+    <ellipse cx="0" cy="50" rx="140" ry="25" fill="#334155" stroke="#64748b" stroke-width="2" />
+    <!-- Center Papers & Pens -->
+    <rect x="-20" y="40" width="40" height="20" fill="#ffffff" rx="2" />
+    <!-- Faculty Avatars around table -->
+    <circle cx="-90" cy="15" r="22" fill="#93c5fd" />
+    <circle cx="-35" cy="5" r="22" fill="#bfdbfe" />
+    <circle cx="35" cy="5" r="22" fill="#bfdbfe" />
+    <circle cx="90" cy="15" r="22" fill="#93c5fd" />
+    <!-- Presentation Screen in front -->
+    <rect x="-80" y="-80" width="160" height="70" rx="4" fill="#ffffff" stroke="#94a3b8" stroke-width="2" />
+    <line x1="-60" y1="-60" x2="60" y2="-60" stroke="#0f3b7a" stroke-width="4" stroke-linecap="round" />
+    <line x1="-60" y1="-45" x2="20" y2="-45" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" />
+    <line x1="-60" y1="-30" x2="40" y2="-30" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- Label Badge -->
+  <rect x="30" y="325" width="540" height="55" rx="8" fill="#ffffff" />
+  <text x="300" y="352" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" fill="#0f3b7a" text-anchor="middle">
+    शिक्षक तथा कर्मचारी बैठक र अभिमुखीकरण / Staff Meeting & Workshop
+  </text>
+  <text x="300" y="370" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">
+    Gurbhakot United Secondary School
+  </text>
+</svg>

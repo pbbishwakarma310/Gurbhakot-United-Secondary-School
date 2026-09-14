@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titleNepali": "कक्षा ११ र १२ को प्रथम त्रैमासिक परीक्षा तालिका सम्बन्धी सूचना",
+    "titleEnglish": "Notice Regarding Class 11 and 12 First Terminal Examination Routine",
+    "date": "2026-09-12",
+    "category": "exam",
+    "categoryNepali": "परीक्षा तालिका",
+    "categoryEnglish": "Exam Routine",
+    "descriptionNepali": "यस गुर्भाकोट युनाइटेड माध्यमिक विद्यालयमा अध्ययनरत कक्षा ११ र १२ का सम्पूर्ण विद्यार्थीहरूलाई प्रथम त्रैमासिक परीक्षाको समय तालिका प्रकाशन गरिएको व्यहोरा जानकारी गराइन्छ। विस्तृत तालिका तलको डाउनलोड लिङ्कबाट हेर्न सक्नुहुनेछ।",
+    "descriptionEnglish": "This is to inform all students of Grade 11 and 12 that the routine for the First Terminal Examination has been published. Please download the routine attachment below for the detailed schedule.",
+    "attachment": "downloads/sample-exam-routine.pdf",
+    "important": true
+  },
+  {
+    "id": 2,
+    "titleNepali": "शैक्षिक सत्र २०८३/०८४ का लागि नयाँ भर्ना खुला सम्बन्धी सूचना",
+    "titleEnglish": "Admission Open Notice for the Upcoming Academic Session",
+    "date": "2026-09-05",
+    "category": "admission",
+    "categoryNepali": "भर्ना सूचना",
+    "categoryEnglish": "Admission Notice",
+    "descriptionNepali": "यस विद्यालयमा कक्षा ११ मा भर्ना हुन इच्छुक एसईई (SEE) उत्तीर्ण विद्यार्थीहरूका लागि नयाँ भर्ना आवेदन फाराम खुला गरिएको छ। इच्छुक विद्यार्थीहरूले विद्यालयको वेबसाइटबाट अनलाइन फाराम भर्न वा विद्यालय प्रशासनमा सम्पर्क गर्न सक्नुहुनेछ।",
+    "descriptionEnglish": "Admission is now open for students who have passed the SEE examination for Class 11. Interested students can apply online through this website or visit the school administration office.",
+    "attachment": "downloads/sample-admission-form.pdf",
+    "important": true
+  },
+  {
+    "id": 3,
+    "titleNepali": "वार्षिक परीक्षाको नतिजा प्रकाशन सम्बन्धी सूचना",
+    "titleEnglish": "Notice Regarding Annual Examination Result Publication",
+    "date": "2026-08-28",
+    "category": "result",
+    "categoryNepali": "नतिजा",
+    "categoryEnglish": "Result",
+    "descriptionNepali": "कक्षा ११ को वार्षिक परीक्षाको नतिजा प्रकाशित गरिएको छ। विद्यार्थीहरूले आफ्नो रोल नम्बर प्रयोग गरी यसै वेबसाइटको 'Result' खण्डबाट आफ्नो नतिजा तथा प्राप्ताङ्क हेर्न सक्नुहुनेछ।",
+    "descriptionEnglish": "The annual examination results for Class 11 have been officially published. Students can view their marksheet on the 'Results' page using their roll number.",
+    "attachment": "",
+    "important": false
+  },
+  {
+    "id": 4,
+    "titleNepali": "चाडपर्व बिदा सम्बन्धी जरूरी सूचना",
+    "titleEnglish": "Urgent Notice Regarding Festival Holidays",
+    "date": "2026-08-15",
+    "category": "holiday",
+    "categoryNepali": "बिदा सूचना",
+    "categoryEnglish": "Holiday Notice",
+    "descriptionNepali": "आसन्न चाडपर्वको पावन अवसरमा विद्यालयको नियमित पठनपाठन केही दिन बन्द रहने व्यहोरा सम्पूर्ण शिक्षक, विद्यार्थी तथा अभिभावकज्यूहरूमा सूचित गरिन्छ। विद्यालय पुनः नियमित समयमा सञ्चालन हुनेछ।",
+    "descriptionEnglish": "All teachers, students, and parents are hereby informed that regular classes will remain suspended for upcoming festival holidays. The school will resume as per regular schedule thereafter.",
+    "attachment": "",
+    "important": false
+  },
+  {
+    "id": 5,
+    "titleNepali": "अभिभावक-शिक्षक अन्तरक्रिया तथा बैठक सम्बन्धी सूचना",
+    "titleEnglish": "Notice for Parent-Teacher Meeting and Interactive Session",
+    "date": "2026-08-01",
+    "category": "general",
+    "categoryNepali": "सामान्य सूचना",
+    "categoryEnglish": "General Notice",
+    "descriptionNepali": "विद्यार्थीहरूको शैक्षिक प्रगति र आचरणका सम्बन्धमा छलफल गर्न आयोजना गरिने अभिभावक-शिक्षक भेलामा सम्पूर्ण आदरणीय अभिभावकज्यूहरूको गरिमामय उपस्थितिका लागि हार्दिक अनुरोध गर्दछौं।",
+    "descriptionEnglish": "Respected parents and guardians are cordially invited to attend the Parent-Teacher meeting to discuss students' academic progress and overall development.",
+    "attachment": "",
+    "important": false
+  },
+  {
+    "id": 6,
+    "titleNepali": "अतिरिक्त क्रियाकलाप तथा खेलकुद सप्ताह आयोजना सम्बन्धमा",
+    "titleEnglish": "Notice Regarding Annual Sports and Extra-Curricular Week",
+    "date": "2026-07-20",
+    "category": "general",
+    "categoryNepali": "सामान्य सूचना",
+    "categoryEnglish": "General Notice",
+    "descriptionNepali": "विद्यालयको वार्षिक कार्यतालिका अनुसार आगामी साता खेलकुद तथा अतिरिक्त क्रियाकलाप सञ्चालन हुने भएकाले सम्पूर्ण विद्यार्थीहरूलाई आ-आफ्नो रुचि अनुसार नाम दर्ता गराउन सूचित गरिन्छ।",
+    "descriptionEnglish": "As per the annual academic calendar, sports and extra-curricular week will be held next week. All students are encouraged to register their names with the sports coordinator.",
+    "attachment": "",
+    "important": false
+  }
+]

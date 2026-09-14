@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titleNepali": "कक्षा ११ तथा १२ को अनलाइन भर्ना आवेदन फाराम",
+    "titleEnglish": "Class 11 & 12 Student Admission Application Form",
+    "category": "forms",
+    "categoryNepali": "फारामहरू",
+    "categoryEnglish": "Forms",
+    "date": "2026-09-01",
+    "fileSize": "180 KB",
+    "file": "downloads/admission-form-sample.pdf"
+  },
+  {
+    "id": 2,
+    "titleNepali": "कक्षा ११ र १२ को प्रथम त्रैमासिक परीक्षा तालिका",
+    "titleEnglish": "Class 11 & 12 First Terminal Examination Routine",
+    "category": "exam",
+    "categoryNepali": "परीक्षा तालिका",
+    "categoryEnglish": "Exam Routine",
+    "date": "2026-09-12",
+    "fileSize": "220 KB",
+    "file": "downloads/exam-routine-sample.pdf"
+  },
+  {
+    "id": 3,
+    "titleNepali": "कक्षा ११ को वार्षिक परीक्षा नतिजा सारांश विवरण",
+    "titleEnglish": "Grade 11 Annual Examination Result Summary Sheet",
+    "category": "result",
+    "categoryNepali": "नतिजा",
+    "categoryEnglish": "Result",
+    "date": "2026-08-28",
+    "fileSize": "250 KB",
+    "file": "downloads/result-summary-sample.pdf"
+  },
+  {
+    "id": 4,
+    "titleNepali": "कक्षा ११ र १२ को पाठ्यक्रम तथा पाठ्यभार विवरण (पाठ्यक्रम विकास केन्द्र)",
+    "titleEnglish": "Curriculum and Syllabus Structure for Grades 11 & 12 (CDC)",
+    "category": "syllabus",
+    "categoryNepali": "पाठ्यक्रम",
+    "categoryEnglish": "Syllabus",
+    "date": "2026-07-15",
+    "fileSize": "450 KB",
+    "file": "downloads/syllabus-sample.pdf"
+  },
+  {
+    "id": 5,
+    "titleNepali": "विद्यार्थी आचारसंहिता तथा विद्यालय अनुशासन नियमावली",
+    "titleEnglish": "Student Code of Conduct & School Disciplinary Rules",
+    "category": "notices",
+    "categoryNepali": "सूचना तथा नियम",
+    "categoryEnglish": "Rules & Notices",
+    "date": "2026-06-10",
+    "fileSize": "310 KB",
+    "file": "downloads/student-code-of-conduct.pdf"
+  },
+  {
+    "id": 6,
+    "titleNepali": "चारित्रिक प्रमाणपत्र तथा स्थानान्तरण प्रमाणपत्र निवेदन फाराम",
+    "titleEnglish": "Character & Transfer Certificate Application Form",
+    "category": "forms",
+    "categoryNepali": "फारामहरू",
+    "categoryEnglish": "Forms",
+    "date": "2026-05-20",
+    "fileSize": "165 KB",
+    "file": "downloads/transfer-certificate-form.pdf"
+  }
+]
