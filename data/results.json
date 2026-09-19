@@ -1,0 +1,182 @@
+[
+  {
+    "rollNumber": "101",
+    "studentNameNepali": "[नमुना विद्यार्थी १ / Demo Student 1]",
+    "studentNameEnglish": "Demo Student One",
+    "class": "11",
+    "section": "A",
+    "examTitleNepali": "प्रथम त्रैमासिक परीक्षा २०८१ (नमुना)",
+    "examTitleEnglish": "First Terminal Examination 2025 (Demo)",
+    "academicYear": "2081/2082",
+    "isDemo": true,
+    "subjects": [
+      {
+        "subjectNepali": "अनिवार्य नेपाली",
+        "subjectEnglish": "Compulsory Nepali",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 78,
+        "grade": "A"
+      },
+      {
+        "subjectNepali": "अनिवार्य अंग्रेजी",
+        "subjectEnglish": "Compulsory English",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 82,
+        "grade": "A"
+      },
+      {
+        "subjectNepali": "सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा",
+        "subjectEnglish": "Social Studies & Life Skills",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 85,
+        "grade": "A+"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय १]",
+        "subjectEnglish": "[Elective Subject 1]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 74,
+        "grade": "B+"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय २]",
+        "subjectEnglish": "[Elective Subject 2]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 80,
+        "grade": "A"
+      }
+    ],
+    "totalMarksObtained": 399,
+    "totalFullMarks": 500,
+    "percentage": 79.8,
+    "gpa": "3.60",
+    "grade": "A",
+    "statusNepali": "उत्तीर्ण (प्रथम श्रेणी)",
+    "statusEnglish": "Passed (First Division)"
+  },
+  {
+    "rollNumber": "102",
+    "studentNameNepali": "[नमुना विद्यार्थी २ / Demo Student 2]",
+    "studentNameEnglish": "Demo Student Two",
+    "class": "11",
+    "section": "A",
+    "examTitleNepali": "प्रथम त्रैमासिक परीक्षा २०८१ (नमुना)",
+    "examTitleEnglish": "First Terminal Examination 2025 (Demo)",
+    "academicYear": "2081/2082",
+    "isDemo": true,
+    "subjects": [
+      {
+        "subjectNepali": "अनिवार्य नेपाली",
+        "subjectEnglish": "Compulsory Nepali",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 88,
+        "grade": "A+"
+      },
+      {
+        "subjectNepali": "अनिवार्य अंग्रेजी",
+        "subjectEnglish": "Compulsory English",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 90,
+        "grade": "A+"
+      },
+      {
+        "subjectNepali": "सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा",
+        "subjectEnglish": "Social Studies & Life Skills",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 92,
+        "grade": "A+"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय १]",
+        "subjectEnglish": "[Elective Subject 1]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 85,
+        "grade": "A+"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय २]",
+        "subjectEnglish": "[Elective Subject 2]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 87,
+        "grade": "A+"
+      }
+    ],
+    "totalMarksObtained": 442,
+    "totalFullMarks": 500,
+    "percentage": 88.4,
+    "gpa": "3.85",
+    "grade": "A+",
+    "statusNepali": "उत्तीर्ण (विशिष्ट श्रेणी)",
+    "statusEnglish": "Passed (Distinction)"
+  },
+  {
+    "rollNumber": "201",
+    "studentNameNepali": "[नमुना विद्यार्थी ३ / Demo Student 3]",
+    "studentNameEnglish": "Demo Student Three",
+    "class": "12",
+    "section": "A",
+    "examTitleNepali": "अर्धवार्षिक परीक्षा २०८१ (नमुना)",
+    "examTitleEnglish": "Half Yearly Examination 2025 (Demo)",
+    "academicYear": "2081/2082",
+    "isDemo": true,
+    "subjects": [
+      {
+        "subjectNepali": "अनिवार्य नेपाली",
+        "subjectEnglish": "Compulsory Nepali",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 70,
+        "grade": "B+"
+      },
+      {
+        "subjectNepali": "अनिवार्य अंग्रेजी",
+        "subjectEnglish": "Compulsory English",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 75,
+        "grade": "A"
+      },
+      {
+        "subjectNepali": "सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा",
+        "subjectEnglish": "Social Studies & Life Skills",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 80,
+        "grade": "A"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय १]",
+        "subjectEnglish": "[Elective Subject 1]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 76,
+        "grade": "A"
+      },
+      {
+        "subjectNepali": "[ऐच्छिक विषय २]",
+        "subjectEnglish": "[Elective Subject 2]",
+        "fullMarks": 100,
+        "passMarks": 35,
+        "marks": 72,
+        "grade": "B+"
+      }
+    ],
+    "totalMarksObtained": 373,
+    "totalFullMarks": 500,
+    "percentage": 74.6,
+    "gpa": "3.35",
+    "grade": "A",
+    "statusNepali": "उत्तीर्ण (प्रथम श्रेणी)",
+    "statusEnglish": "Passed (First Division)"
+  }
+]

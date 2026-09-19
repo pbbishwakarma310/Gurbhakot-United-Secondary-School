@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#bae6fd" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#gSky)" />
+  <rect y="260" width="600" height="140" fill="#22c55e" />
+  <!-- School Building Silhouette & Facade -->
+  <rect x="100" y="120" width="400" height="150" fill="#ffffff" rx="6" stroke="#cbd5e1" stroke-width="2" />
+  <polygon points="80,120 300,50 520,120" fill="#dc2626" />
+  <!-- Windows -->
+  <g fill="#0284c7" stroke="#ffffff" stroke-width="2">
+    <rect x="130" y="140" width="40" height="40" rx="3" />
+    <rect x="190" y="140" width="40" height="40" rx="3" />
+    <rect x="370" y="140" width="40" height="40" rx="3" />
+    <rect x="430" y="140" width="40" height="40" rx="3" />
+    <rect x="130" y="200" width="40" height="40" rx="3" />
+    <rect x="190" y="200" width="40" height="40" rx="3" />
+    <rect x="370" y="200" width="40" height="40" rx="3" />
+    <rect x="430" y="200" width="40" height="40" rx="3" />
+  </g>
+  <!-- Entrance -->
+  <rect x="270" y="180" width="60" height="90" fill="#0f3b7a" rx="4" />
+  <!-- Badge Label -->
+  <rect x="30" y="320" width="540" height="60" rx="8" fill="#ffffff" opacity="0.92" />
+  <text x="300" y="348" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#0f3b7a" text-anchor="middle">
+    विद्यालय भवन तथा परिसर / School Campus & Infrastructure
+  </text>
+  <text x="300" y="368" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">
+    Gurbhakot United Secondary School, Botechaur
+  </text>
+</svg>
